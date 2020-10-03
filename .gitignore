@@ -1,4 +1,4 @@
-.zip
+*.zip
 .idea
 __pycache__
-.docx
+*.docx
